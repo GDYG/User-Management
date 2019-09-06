@@ -1,4 +1,4 @@
-# vuecli1
+# user-management
 
 ## Project setup
 ```
